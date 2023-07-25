@@ -29,6 +29,8 @@ l2=["sara","parisa","akram", " jahaleh"]
 print(l1+l2)
 l1.append(l2)
 print(l1)
+l2.clear()
+print(l2)
 del l1
 print (l1)# error because , it's not exist
 
