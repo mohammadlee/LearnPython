@@ -25,5 +25,8 @@ for i in dic.keys():
 for x, y in dic.items():
     print("the key is",x," the value is ", y)
 print("##########################")
+x="mohammadreza"
+for i in x:
+    print(i)
 
 
